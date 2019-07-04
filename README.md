@@ -6,7 +6,8 @@
    Using the Listen Notes API and the Mapquest API we have developed an application that allows the user to search for gps
    directions using Mapquest.  Depending on the length of the trip the Listen Notes API will fetch a list of podcasts that 
    correspond with the length of the user's trip.  Allowing the user to focus on the road instead constantly checking their phone
-    
+   Visit the app at: https://rthorpesr.github.io/destination_podcast/
+   
     Technologies Used
     
     HTML
